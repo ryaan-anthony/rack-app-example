@@ -2,6 +2,6 @@
 
 class ErrorsController < ApplicationController
   def not_found
-    render 'Not found!', 404
+    render :not_found, 404
   end
 end

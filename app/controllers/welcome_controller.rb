@@ -2,6 +2,6 @@
 
 class WelcomeController < ApplicationController
   def index
-    render 'Welcome!'
+    render :welcome
   end
 end
