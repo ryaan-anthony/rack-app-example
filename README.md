@@ -1,4 +1,4 @@
-# rack-demo-app
+# rack-app-example
 
 This is a simple rack app for doing stuff!
 
